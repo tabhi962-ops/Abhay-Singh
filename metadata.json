@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Image Studio",
+  "description": "An advanced web application that leverages the Gemini API for a suite of image-related tasks. Users can generate new images from text prompts with various aspect ratios, edit existing photos with intuitive commands, and utilize a unique 'analyze and regenerate' feature to refine creations until they perfectly match the initial vision.",
+  "requestFramePermissions": []
+}
